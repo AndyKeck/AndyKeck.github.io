@@ -1,20 +1,20 @@
 # Site wide configuration
 
-title: Site Title
+title: Andrew Keck's Site
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Andrew Keck
   avatar: bio-photo.jpg
   bio: "A brief description of yourself."
-  email: #emailaddress
+  email: akeck13@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
-  github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  github: akeck13
+  orcid: 0000-0002-2001-5782
   researchgate: #username
   mendeley: #username
   google:
